@@ -1,1 +1,4 @@
-console.log("hello git");
+
+function getMore(){
+	console.log("hello git");
+}
